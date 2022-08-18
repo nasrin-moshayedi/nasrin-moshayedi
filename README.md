@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/nasrinmoshayedi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="nasrin-moshayedi" height="30" width="40" /></a>
 <a href="https://instagram.com/nasrin_moshayedi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="nasrin-moshayedi" height="auto" width="40" /></a>
+  <a href="https://mailto:n.mshayedi@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" alt="nasrin-moshayedi" height="auto" width="40" /></a>
 </p>
 
 
